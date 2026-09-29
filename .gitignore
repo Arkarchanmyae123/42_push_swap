@@ -1,0 +1,5 @@
+.vscode/
+a.out
+checker_linux
+*.o
+ARG*
